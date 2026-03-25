@@ -89,17 +89,17 @@ export default function ChatWidget() {
           width: 62px;
           height: 62px;
           border-radius: 50%;
-          background: #2C1810;
+          background: #17112B;
           border: none;
           cursor: pointer;
           display: flex;
           align-items: center;
           justify-content: center;
-          box-shadow: 0 4px 24px rgba(44,24,16,0.35);
+          box-shadow: 0 4px 24px rgba(23,17,43,0.35);
           transition: transform 0.2s ease, box-shadow 0.2s ease;
           z-index: 9999;
         }
-        .sa-toggle:hover { transform: scale(1.06); box-shadow: 0 6px 30px rgba(44,24,16,0.45); }
+        .sa-toggle:hover { transform: scale(1.06); box-shadow: 0 6px 30px rgba(23,17,43,0.45); }
         .sa-toggle svg { transition: opacity 0.2s; }
 
         .sa-panel {
@@ -108,9 +108,9 @@ export default function ChatWidget() {
           right: 28px;
           width: 380px;
           max-height: 580px;
-          background: #FDFAF5;
+          background: #FFFFFF;
           border-radius: 16px;
-          box-shadow: 0 8px 48px rgba(44,24,16,0.18), 0 0 0 1px rgba(44,24,16,0.08);
+          box-shadow: 0 8px 48px rgba(23,17,43,0.18), 0 0 0 1px rgba(23,17,43,0.08);
           display: flex;
           flex-direction: column;
           overflow: hidden;
@@ -124,7 +124,7 @@ export default function ChatWidget() {
         }
 
         .sa-header {
-          background: #2C1810;
+          background: #17112B;
           padding: 18px 20px;
           display: flex;
           align-items: center;
@@ -176,7 +176,7 @@ export default function ChatWidget() {
           flex-direction: column;
           gap: 12px;
           scrollbar-width: thin;
-          scrollbar-color: rgba(44,24,16,0.15) transparent;
+          scrollbar-color: rgba(23,17,43,0.15) transparent;
         }
 
         .sa-bubble {
@@ -190,13 +190,13 @@ export default function ChatWidget() {
         }
         .sa-bubble-assistant {
           background: #fff;
-          color: #2C1810;
+          color: #17112B;
           align-self: flex-start;
-          border: 1px solid rgba(44,24,16,0.08);
+          border: 1px solid rgba(23,17,43,0.08);
           border-bottom-left-radius: 4px;
         }
         .sa-bubble-user {
-          background: #2C1810;
+          background: #17112B;
           color: #F5ECD7;
           align-self: flex-end;
           border-bottom-right-radius: 4px;
@@ -208,7 +208,7 @@ export default function ChatWidget() {
           align-items: center;
           padding: 13px 16px;
           background: #fff;
-          border: 1px solid rgba(44,24,16,0.08);
+          border: 1px solid rgba(23,17,43,0.08);
           border-radius: 14px;
           border-bottom-left-radius: 4px;
           align-self: flex-start;
@@ -217,7 +217,7 @@ export default function ChatWidget() {
           width: 6px;
           height: 6px;
           border-radius: 50%;
-          background: #8B6A50;
+          background: #5B5280;
           animation: sa-bounce 1.2s ease-in-out infinite;
         }
         .sa-dot:nth-child(2) { animation-delay: 0.2s; }
@@ -235,46 +235,46 @@ export default function ChatWidget() {
         }
         .sa-suggestion {
           background: none;
-          border: 1px solid rgba(44,24,16,0.2);
+          border: 1px solid rgba(23,17,43,0.2);
           border-radius: 20px;
           padding: 5px 12px;
           font-size: 12px;
-          color: #6B4A35;
+          color: #3D3566;
           cursor: pointer;
           font-family: 'Jost', sans-serif;
           transition: all 0.15s;
           white-space: nowrap;
         }
-        .sa-suggestion:hover { background: #2C1810; color: #F5ECD7; border-color: #2C1810; }
+        .sa-suggestion:hover { background: #17112B; color: #F5ECD7; border-color: #17112B; }
 
         .sa-input-area {
-          border-top: 1px solid rgba(44,24,16,0.08);
+          border-top: 1px solid rgba(23,17,43,0.08);
           padding: 12px 14px;
           display: flex;
           gap: 8px;
           align-items: center;
-          background: #FDFAF5;
+          background: #FFFFFF;
           flex-shrink: 0;
         }
         .sa-input {
           flex: 1;
-          border: 1px solid rgba(44,24,16,0.15);
+          border: 1px solid rgba(23,17,43,0.15);
           border-radius: 22px;
           padding: 9px 16px;
           font-size: 13.5px;
           font-family: 'Jost', sans-serif;
           background: #fff;
-          color: #2C1810;
+          color: #17112B;
           outline: none;
           transition: border-color 0.15s;
         }
-        .sa-input:focus { border-color: rgba(44,24,16,0.4); }
-        .sa-input::placeholder { color: rgba(44,24,16,0.35); }
+        .sa-input:focus { border-color: rgba(23,17,43,0.4); }
+        .sa-input::placeholder { color: rgba(23,17,43,0.35); }
         .sa-send {
           width: 38px;
           height: 38px;
           border-radius: 50%;
-          background: #2C1810;
+          background: #17112B;
           border: none;
           cursor: pointer;
           display: flex;
@@ -289,7 +289,7 @@ export default function ChatWidget() {
         .sa-footer {
           text-align: center;
           font-size: 10.5px;
-          color: rgba(44,24,16,0.3);
+          color: rgba(23,17,43,0.3);
           padding: 0 14px 10px;
           font-weight: 300;
           letter-spacing: 0.3px;
