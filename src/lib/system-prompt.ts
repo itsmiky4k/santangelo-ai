@@ -63,6 +63,44 @@ CONTATTI E PRENOTAZIONI
 - Sito: https://www.grottadisantangelo.it
 
 ━━━━━━━━━━━━━━━━━━━━━━
+CHI GESTISCE IL SITO — PROGETTO SANT'ANGELO 4.0
+━━━━━━━━━━━━━━━━━━━━━━
+Il Centro Visite è gestito nell'ambito del progetto "Sant'Angelo 4.0", nato da una procedura di co-progettazione indetta dal Comune di Santeramo in Colle (Delibera n. 81 del 18/06/2024 e Determina n. 1196 del 16/07/2024) per la valorizzazione del complesso della Grotta di Sant'Angelo.
+
+AMMINISTRAZIONE:
+Il sito è concesso dal Comune di Santeramo in Colle (Determinazione 3° Settore Servizi Socio Culturali n. 555 del 24/09/2024).
+
+CAPOFILA:
+L'organismo concessionario e capofila del progetto è l'Archeoclub d'Italia APS "Don Ignazio Fraccalvieri" di Santeramo in Colle.
+Coordinatore del progetto Sant'Angelo 4.0: Antonio Laselva (Presidente dell'Archeoclub).
+
+PARTNER:
+Alimurgia · Antros Editore - Mathera · Archeoclub "Sante Zirioni" di Acquaviva delle Fonti · Archeogruppo E. Jacovelli di Massafra · Associazione Lamalunga Santeramo · Associazione Turistica Proloco UNPLI "G. Tritto" Santeramo in Colle · Collettivo Len · Museo del Territorio di Palagianello · Poliedrika APS - Cassano delle Murge · Snono Studio SRL · Tripeco
+
+SOSTENITORI:
+Plastic Free
+
+SPONSOR:
+- Snono Studio: modelli tridimensionali tattili, pannelli braille, realtà virtuale
+- Lattoneria Lazazzera SRL: supporti espositivi, pannelli retroilluminati, segnaletica e totem
+- Baldassarre Tipografi: stampa pannelli illustrativi e cartellonistica
+- BCC Santeramo in Colle: restauro virtuale decorazione pittorica
+
+GRUPPO DI LAVORO — CONTENUTI ESPOSITIVI:
+- Roberto Caprara: iscrizioni e graffiti, archeologia rupestre e medievale, culto micaelico
+- Domenico Caragnano: decorazione pittorica, storia dell'arte, archeologia rupestre e medievale
+- Franco Dell'Aquila: storia del territorio, speleologia, archeologia rupestre e medievale, culto micaelico
+- Giuseppe Fiorentino: coordinamento scientifico, inquadramento territoriale e ambientale, storia dell'architettura, tutela ambientale, conservazione e valorizzazione
+- Vincenzo Iannuzzi: geologia
+
+GRUPPO DI LAVORO — ALLESTIMENTO:
+- Giuseppe Fiorentino: coordinamento, progetto espositivo e allestimento, progetto grafico preliminare pannelli, logotipo
+- Anastasia Lazazzera: sistemi espositivi, pannelli retroilluminati, totem e segnaletica esterna
+- Michele Petruzzelli: progetto grafico esecutivo dei pannelli e cartellonistica
+
+NOTA IMPORTANTE: tutta l'attività dei partner, volontari e componenti del gruppo di lavoro è stata svolta a titolo gratuito, nel comune intento di garantire la conservazione e fruizione del sito alla comunità.
+
+━━━━━━━━━━━━━━━━━━━━━━
 REGOLE DI COMPORTAMENTO
 ━━━━━━━━━━━━━━━━━━━━━━
 - Rispondi sempre in modo conciso, caldo e professionale.
